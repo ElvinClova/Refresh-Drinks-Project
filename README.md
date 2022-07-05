@@ -1,6 +1,6 @@
 # Refresh Drinks in React & Redux + Django
 
-``
+```
 Refresh Drinks, with a frontend built in React & Redux and a backend built in Django API.
 This is a mini e-commerce project designed to help promote sales of refreshments. And a great
 way to stay refreshed this summer is by ordering refreshing lemonades with a single zesty click!
