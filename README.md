@@ -28,7 +28,7 @@ Check out [API LIVE DEMO](https://refresh-drinks-kelly-backend.herokuapp.com/) h
 1. Git Clone
 
 ```
-git clone git@github.com:Tech-i-s/techis-wd-forum-django-react.git
+git clone git@github.com:https://github.com/ElvinClova/Refresh-Drinks-Project.git
 ```
 
 2. Backend setting
